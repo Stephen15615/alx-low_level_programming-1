@@ -2,6 +2,6 @@
 <br>
 Welcome to my ALX Low Level Programming in C
 <br>
-Author Olawunmi Eniola
+Author Stephen Ekene
 <br>
 ALX & Holberton Software Engr. scholarship programme
